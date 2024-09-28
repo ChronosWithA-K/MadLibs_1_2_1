@@ -12,7 +12,7 @@ public class Main {
         int firstLeftBracket = madLib.indexOf("<");
         int firstRightBracket = madLib.indexOf(">");
 
-        String firstPrompt = madLib.substring(firstLeftBracket, firstLeftBracket);
+        String firstPrompt = madLib.substring(firstLeftBracket, firstRightBracket);
 
         System.out.println("Give me a " + firstPrompt);
     }
