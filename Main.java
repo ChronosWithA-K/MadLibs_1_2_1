@@ -12,8 +12,15 @@ public class Main {
         int firstLeftBracket = madLib.indexOf("<");
         int firstRightBracket = madLib.indexOf(">");
 
-        String firstPrompt = madLib.substring(firstLeftBracket, firstRightBracket);
+        // String firstPrompt = madLib.substring((firstLeftBracket + 1), firstRightBracket);
 
-        System.out.println("Give me a " + firstPrompt);
+        // System.out.println("Give me a " + firstPrompt);
+        // String firstAnswer = scammer.nextLine();
+
+        for (int i = 0; i < madLib.length(); i++) {
+            if (madLib.charAt(i) == ) {
+
+            }
+        }
     }
 }
