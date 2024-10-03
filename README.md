@@ -16,6 +16,7 @@ The estimated development times and the actual development time follow the rule 
 ### Goals
  - ~~Be able to solve madlibs with more than/less than three prompts~~
  - ~~Be able to check whether an answer is legal (alphabetical characters only)~~
+ - ~~Display finished madlib to the user~~
  - ~~Finish~~
 
 ### Challenges
