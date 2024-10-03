@@ -9,7 +9,7 @@ public class Main {
         // madlib = "Once upon a time in a <adjective> land, a <noun> <adverb> grew.";
         // madlib = "The <adjective> <noun> <verb>.";
 
-        // Warn users because the third prompt in the first madlib doesn't pass legalityChecker
+        // Warn users because the third prompt in the first madlib doesn't pass legalityChecker()
         System.out.println("If you are prompted for a number, write it out as a word (e.g. five instead of 5)");
 
         // While "less than" angle brackets still exist in the madlib string:
