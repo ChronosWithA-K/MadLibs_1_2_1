@@ -1,4 +1,6 @@
-﻿# MadLibs_1_2_1
+﻿# AP CSA MadLibs 1.2.10 
+
+## This repo is meant to be able to solve any madlib, provided the prompts for said madlib are contained within angle brackets ("<", ">").
 
 ### Time Chart
 | Milestones | Estimated development time | Actual development time |
